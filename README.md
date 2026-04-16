@@ -1,5 +1,7 @@
 # 📖 get_next_line
 
+[Leia em Português](README.pt.md)
+
 > *Reading a line from a file descriptor, one line at a time.*
 
 A 42 School project implementing a function that reads from a file descriptor and returns one line per call — including the newline character — while efficiently managing a leftover buffer using static variables.
