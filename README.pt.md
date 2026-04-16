@@ -1,5 +1,7 @@
 # 📖 get_next_line
 
+[Read in English](README.md)
+
 > *Leitura de linhas a partir de um descritor de ficheiro, uma de cada vez.*
 
 Um projecto da 42 School que implementa uma função capaz de ler a partir de um descritor de ficheiro e devolver uma linha por chamada — incluindo o carácter de nova linha — gerindo eficientemente o excedente de leitura através de variáveis estáticas.
